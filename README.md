@@ -5,7 +5,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Öncelikle projeyi clonelayın.
 
-[](git clone https://github.com/Emre6001/kodluyoruzilkrepo.git)
+```git clone https://github.com/Emre6001/kodluyoruzilkrepo.git ```
 
 ## Usage
 
