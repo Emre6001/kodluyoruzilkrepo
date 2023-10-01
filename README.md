@@ -1,30 +1,30 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-##Installation
+## Installation
 
 Öncelikle projeyi clonelayın.
 
-[git clone](https://github.com/Emre6001/kodluyoruzilkrepo.git)
+[](git clone https://github.com/Emre6001/kodluyoruzilkrepo.git)
 
-##Usage
+## Usage
 
 Projeyi cloneladıktan sonra VSCode programını açınız.
 
 Linux için:
 
-`cd kodluyoruzilkrepo
-`code
+`cd kodluyoruzilkrepo`
+`code`
 
-##Contributing 
-
-Pull requestler kabul edilir.Büyük değişikler için, lütfenn önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
-
-##Contributing
+## Contributing 
 
 Pull requestler kabul edilir.Büyük değişikler için, lütfenn önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
 
-##License
+## Contributing
+
+Pull requestler kabul edilir.Büyük değişikler için, lütfenn önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız
+
+## License
 
 [MIT](https://github.com)
 
